@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @achmadsyarif252
 - 👀 I’m interested in android programming and have some interset in data science
 - 🌱 I’m currently learning kotlin and java as main daily routine
-- Currently studyingin Jakarta State University Major informatics and computer engineering education
+- Currently studying in Jakarta State University Major informatics and computer engineering education
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
