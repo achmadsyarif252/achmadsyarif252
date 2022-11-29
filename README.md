@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achmadsyarif252
+- 👋 Hi, I’m @achmadsyarif252,a 20-year-old ungraduated student who is currently exploring the field of android application development.
 - 👀 I’m interested in android programming and have some interset in data science
 - 🌱 I’m currently learning kotlin and java as main daily routine
 - Currently studying in Jakarta State University Major informatics and computer engineering education
