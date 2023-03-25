@@ -11,13 +11,6 @@ Kotlin,Android apps development,data structure and algorithm
 ## 📈 GitHub Stats
 ![YOUR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=achmadsyarif252&show_icons=true)
 
-## 🏆 GitHub Achievements
-- [YOUR TOP LANGUAGE] Top Language
-- [YOUR CONTRIBUTION STATS] Total Contributions
-- [YOUR CONTRIBUTION STATS] Total Pull Requests
-- [YOUR CONTRIBUTION STATS] Total Issues
-- [YOUR CONTRIBUTION STATS] Total Commits
-- [YOUR CONTRIBUTION STATS] Longest Streak
 
 ## 📊 GitHub Metrics
 ![YOUR GITHUB METRICS](https://metrics.lecoq.io/achmadsyarif252)
