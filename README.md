@@ -4,9 +4,9 @@ I'm Achmad Syarif, a Mobile Appilication Developer from Jakarta.
 
 #### Connect with me:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-_achmad25-orange?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johndoe/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-achmadsyarif-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/johndoe/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-achmad-syarif-38a625255-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-achmad25-orange?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_achmad25/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-achmadsyarif-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/achmadsyarif/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-achmad syarif-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/achmad-syarif-38a625255/)
 
 
 ## 🔭 I’m currently working on
