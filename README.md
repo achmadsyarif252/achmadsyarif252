@@ -11,6 +11,9 @@ I'm Achmad Syarif, a Mobile Appilication Developer currently interning at PT Tel
 ## 📈 GitHub Stats
 ![YOUR GITHUB STATS](https://github-readme-stats.vercel.app/api?username=achmadsyarif252&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsyarif252&theme=dark)
+
+
 
 NB: This is a repository for all the code I've learned, (in case I lose data locally) sorry if it's a bit messy, I'll tidy it up slowly.
 
