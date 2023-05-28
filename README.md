@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Achmad Syarif, a Mobile Appilication Developer currently interning at PT Tele Cexup Indonesia as an Android &(IoMT) Developer 
+Achmad Syarif,Mobile Appilication Developer interning at PT Tele Cexup Indonesia as an Android &(IoMT) Developer 
 
 #### Connect with me:
 
