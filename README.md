@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Achmad Syarif, a Mobile Appilication Developer currently interning at PT Tele Cexup Indonesia as an Android Developer And IOT Integrator (I think that's what it's called). Also3rd year college student at Universitas Negeri Jakarta in informatics education major
+Achmad Syarif, a Mobile Appilication Developer currently interning at PT Tele Cexup Indonesia as an Android &(IoMT) Developer 
 
 #### Connect with me:
 
