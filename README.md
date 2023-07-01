@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name Achmad Syarif,Mobile Appilication Developer interning at PT Tele Cexup Indonesia as an Android &(IoMT) Developer 
+My Name Achmad Syarif,Mobile Appilication Developer
 
 #### Connect with me:
 
