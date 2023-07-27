@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name Achmad Syarif,Mobile Appilication Developer
+My Name is Achmad Syarif,currently working @ Tele Cexup Indonesia as Mobile Appilication Developer
 
 #### Connect with me:
 
