@@ -1,19 +1,17 @@
 # Hey there! 👋 I'm Achmad Syarif
 
-Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating innovative and user-friendly apps. Currently, I work at Tele Cexup Indonesia, where I get to turn my ideas into reality.
-
+Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating innovative and user-friendly apps. Currently, I work at Tele Cexup Indonesia
 ## 🚀 About Me
 
 - 🔭 I specialize in Android and iOS app development.
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
-- 🎨 I have an eye for detail and love creating delightful UI/UX designs.
 
 ## 🛠️ Tech Stack
 
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
 - <img src="https://img.icons8.com/color/48/000000/flutter.png" height="20"/> iOS (Dart Flutter)
-- <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" height="20"/> IOT
+- <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> IOT SDK
 - <img src="https://img.icons8.com/color/48/000000/firebase.png" height="20"/> Firebase
 - <img src="https://img.icons8.com/color/48/000000/git.png" height="20"/> Git
 
