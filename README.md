@@ -1,6 +1,3 @@
-Absolutely! Here's an improved version of your GitHub profile README:
-
-```markdown
 # Hey there! 👋 I'm Achmad Syarif
 
 Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating innovative and user-friendly apps. Currently, I work at Tele Cexup Indonesia, where I get to turn my ideas into reality.
@@ -15,7 +12,8 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 ## 🛠️ Tech Stack
 
 - Android (Kotlin/Java)
-- Android/IOS (Flutter Dart)
+- iOS (Swift)
+- React Native
 - Firebase
 - Git
 
@@ -41,6 +39,3 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 achmadsyarif252/achmadsyarif252 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-```
-
-In this improved version, I've highlighted your tech stack, reorganized sections, and added a bit more information about your skills and interests. Additionally, I've included a "Tech Stack" section to showcase the technologies you are proficient in. Remember to customize this README to accurately represent your skills and experiences. Happy coding!
