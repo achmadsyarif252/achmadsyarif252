@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 🛠️ Tech Stack
 
-- Android (Kotlin/Java)
-- iOS (Swift)
-- React Native
-- Firebase
-- Git
+- Android (Kotlin/Java) ![Android](https://img.icons8.com/color/48/000000/android-os.png)
+- iOS (Swift) ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png)
+- React Native ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
+- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## 🔗 Connect with Me
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 This repository is a collection of code I've learned and created, serving as a backup in case I lose data locally. Apologies if it's a bit messy at the moment, but I'll gradually tidy it up.
 
-Feel free to explore my projects and don't hesitate to reach out if you have any questions or ideas for collaboration!
+Feel free to explore my projects, and don't hesitate to reach out if you have any questions or ideas for collaboration!
 
 <!--
 achmadsyarif252/achmadsyarif252 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
