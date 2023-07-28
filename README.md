@@ -11,11 +11,13 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 🛠️ Tech Stack
 
-- Android (Kotlin/Java) ![Android](https://img.icons8.com/color/48/000000/android.png)
-- Flutter (Dart) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
-- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
-- Visual Studio ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png)
+<div align="center">
+    <img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" title="Android" />
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" />
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio" title="Visual Studio" />
+</div>
 
 ## 🔗 Connect with Me
 
