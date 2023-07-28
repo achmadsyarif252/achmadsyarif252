@@ -1,13 +1,10 @@
-Apologies for the inconvenience. The alignment of images in Markdown can sometimes vary based on the rendering platform. To ensure that the icons are aligned properly with the text, you can use HTML tags to control the layout. Here's the updated version with proper alignment:
-
-```markdown
 # Hey there! 👋 I'm Achmad Syarif
 
 Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating innovative and user-friendly apps. Currently, I work at Tele Cexup Indonesia, where I get to turn my ideas into reality.
 
 ## 🚀 About Me
 
-- 🔭 I specialize in Android app development.
+- 🔭 I specialize in Android and iOS app development.
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
 - 🎨 I have an eye for detail and love creating delightful UI/UX designs.
@@ -15,8 +12,8 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 ## 🛠️ Tech Stack
 
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
-- <img src="https://img.icons8.com/color/48/000000/flutter.png" height="20"/> iOS (Flutter)
-- <img src="https://img.icons8.com/color/48/000000/iot.png" height="20"/> IOT
+- <img src="https://img.icons8.com/color/48/000000/flutter.png" height="20"/> iOS (Dart Flutter)
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" height="20"/> React Native
 - <img src="https://img.icons8.com/color/48/000000/firebase.png" height="20"/> Firebase
 - <img src="https://img.icons8.com/color/48/000000/git.png" height="20"/> Git
 
@@ -42,6 +39,3 @@ Feel free to explore my projects, and don't hesitate to reach out if you have an
 achmadsyarif252/achmadsyarif252 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-```
-
-In this version, I used the HTML `<img>` tag to display the icons and added a `height="20"` attribute to set the icons' height. This should align the icons properly with the text. Remember to commit and push the changes to your repository for the updates to take effect on your GitHub profile. If you encounter any further issues or have any other preferences, feel free to let me know! Happy coding!
