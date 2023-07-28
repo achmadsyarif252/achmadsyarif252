@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 🚀 About Me
 
-- 🔭 I specialize in Android and iOS app development.
+- 🔭 I specialize in Android (📱) and iOS (🍎) app development.
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
 - 🎨 I have an eye for detail and love creating delightful UI/UX designs.
 
 ## 🛠️ Tech Stack
 
-- <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
-- <img src="https://img.icons8.com/color/48/000000/ios-logo.png" height="20"/> iOS (Swift)
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" height="20"/> React Native
-- <img src="https://img.icons8.com/color/48/000000/firebase.png" height="20"/> Firebase
-- <img src="https://img.icons8.com/color/48/000000/git.png" height="20"/> Git
+- Android (Kotlin/Java) ![Android](https://img.icons8.com/color/48/000000/android.png)
+- Flutter (Dart) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- Visual Studio ![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio-2019.png)
 
 ## 🔗 Connect with Me
 
