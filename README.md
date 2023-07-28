@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
 - <img src="https://img.icons8.com/color/48/000000/flutter.png" height="20"/> iOS (Dart Flutter)
-- <img src="https://img.icons8.com/color/48/000000/iot.png" height="20"/> IOT
+- <img src="https://img.icons8.com/color/48/000000/internet-of-things.png" height="20"/> IOT
 - <img src="https://img.icons8.com/color/48/000000/firebase.png" height="20"/> Firebase
 - <img src="https://img.icons8.com/color/48/000000/git.png" height="20"/> Git
 
