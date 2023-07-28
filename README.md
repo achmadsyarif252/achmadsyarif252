@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 🛠️ Tech Stack
 
-- Android (Kotlin/Java) ![Android](https://img.icons8.com/color/48/000000/android-os.png)
-- iOS (Swift) ![iOS](https://img.icons8.com/color/48/000000/ios-logo.png)
-- React Native ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
-- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
+- <img src="https://img.icons8.com/color/48/000000/ios-logo.png" height="20"/> iOS (Swift)
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" height="20"/> React Native
+- <img src="https://img.icons8.com/color/48/000000/firebase.png" height="20"/> Firebase
+- <img src="https://img.icons8.com/color/48/000000/git.png" height="20"/> Git
 
 ## 🔗 Connect with Me
 
