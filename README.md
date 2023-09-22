@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 
 ## 📝 Note
 
-This repository is a collection of code I've learned and created, serving as a backup in case I lose data locally. Apologies if it's a bit messy at the moment, but I'll gradually tidy it up.
+This repository is a collection of code I've learned and created, serving as a backup in case I lose data locally.
 
 Feel free to explore my projects, and don't hesitate to reach out if you have any questions or ideas for collaboration!
 
