@@ -18,14 +18,6 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-achmadsyarif-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-syarif-38a625255/)
-[![Instagram](https://img.shields.io/badge/Instagram-achmad25-orange?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_achmad25/)
-[![Facebook](https://img.shields.io/badge/Facebook-achmadsyarif-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/achmadsyarif/)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadsyarif252&show_icons=true&count_private=true&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsyarif252&layout=compact&theme=dark)
 
 ## 📝 Note
 
