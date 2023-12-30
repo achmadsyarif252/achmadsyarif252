@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
 
-- https://github-readme-stats.vercel.app/api?username=achmadsyarif252
-- https://github-readme-stats.vercel.app/api/pin/?username=achmadsyarif252&repo=tasbih_digital
-- https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsyarif252
-- Wakatime Week Stats: https://github-readme-stats.vercel.app/api/wakatime?username=achmadsyarif252
+https://github-readme-stats.vercel.app/api?username=achmadsyarif252
+https://github-readme-stats.vercel.app/api/pin/?username=achmadsyarif252&repo=MySootheApp
+https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsyarif252
+Wakatime Week Stats: https://github-readme-stats.vercel.app/api/wakatime?username=achmadsyarif252
 
 ## 🛠️ Tech Stack
 
