@@ -6,9 +6,11 @@ Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion 
 - 🔭 I specialize in Android and iOS app development.
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
+  
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=achmadsyarif252)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/v1/user/achmadsyarif252?show_icons=true)](https://github.com/achmadsyarif252)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadsyarif252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## 🛠️ Tech Stack
 
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" height="20"/> Android (Kotlin/Java)
