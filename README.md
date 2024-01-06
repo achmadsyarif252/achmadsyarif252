@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Mobile Application Developer with a passion for creating innovative and user-friendly apps. Currently, I work at Tele Cexup Indonesia
 ## 🚀 About Me
 
-- 🔭 I specialize in Android and iOS app development.
+- 🔭 I specialize in Android app development.
 - 🌱 I'm always learning and exploring new technologies to stay up-to-date.
 - 💡 I enjoy solving problems and optimizing app performance.
   
